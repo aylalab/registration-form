@@ -9,3 +9,15 @@ h1 {
 fieldset {
   padding: 0;
 }
+
+@media only screen and (min-width: 60em) {
+
+  form {
+    background-color: #fff;
+  }
+
+  html {
+    background-color: #f2f2f2;
+  }
+
+}
